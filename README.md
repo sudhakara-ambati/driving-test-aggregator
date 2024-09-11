@@ -21,8 +21,8 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/sudhakara-ambati/driving-test-webscraper.git
-    cd driving-test-webscraper
+    git clone https://github.com/sudhakara-ambati/driving-test-aggregator.git
+    cd driving-test-aggregator
     ```
 
 2. **Install Dependencies:**
