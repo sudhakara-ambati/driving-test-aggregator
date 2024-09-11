@@ -21,7 +21,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/driving-test-webscraper.git](https://github.com/sudhakara-ambati/driving-test-aggregator)
+    git clone https://github.com/yourusername/driving-test-webscraper.git
     cd driving-test-webscraper
     ```
 
