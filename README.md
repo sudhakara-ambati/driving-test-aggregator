@@ -1,8 +1,3 @@
-
-### Putting It All Together in a README
-
-Here’s an example of how you might include code snippets and command-line instructions in a README file using Markdown:
-
 # Driving Test Webscraper
 
 **Driving Test Webscraper** is a tool designed to monitor and scrape new open test booking slots from [LIDT.co.uk](https://www.lidt.co.uk). This tool helps users find and book driving test slots by continuously checking for availability and notifying them of new openings. Additionally, it uses cookies to automate the booking process for the user once a slot is found.
