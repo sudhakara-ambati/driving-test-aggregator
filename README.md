@@ -13,7 +13,7 @@
 ## Requirements
 
 - **Python 3.7+**
-- **BeautifulSoup4** (`pip install beautifulsoup4`)
+- **BeautifulSoup4** (`pip install bs4`)
 - **Requests** (`pip install requests`)
 
 ## Installation
