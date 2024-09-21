@@ -32,7 +32,7 @@ os_clear = True
 
 while True:
     proxies = {
-        "http": "http://api.scraperapi.com/?api_key=0a282955eb1d3c81bed0ffb05f3869fe&url=http://httpbin.org/ip"
+        "http": "PROXIES"
     }
 
     url = "https://lidt.co.uk/fast-track-booking"
